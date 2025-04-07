@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Hadi Nazifi From Tehran, IR.
 - BSC Computer engineering at Amirkabir University of Technology (Tehran Polytechnic)
 - 👀 Front-End Developer
 - My CV: https://linkedin.com/in/h4di
